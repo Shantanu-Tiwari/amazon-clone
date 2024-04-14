@@ -8,6 +8,8 @@
     background-color: #131921;
     width: 100%;
     color: white;
+    display: flex;
+    align-items: center;
 }
 .border{
     border: 2px solid transparent;
@@ -16,10 +18,12 @@
     border: 2px solid white;
 }
 .logo{
-    background-image: url("assests/Amazon-Logo-White.png");
-    height: 5px;
+    background-image: url("assests/amazon.svg");
 }
 .nav-logo{
     height: 50px;
     width: 80px;
+}
+.nav-address{
+
 }
